@@ -15,7 +15,7 @@ const Header = () => {
        </Link>          
       <Link href={'/courses'} >
 
-      <Button variant="startButton" > Get started</Button>
+      <Button variant="startButton" > Sign in</Button>
       </Link>
       </div>
     </div>
