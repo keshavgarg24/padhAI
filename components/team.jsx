@@ -5,24 +5,28 @@ const people = [
   {
     id: 1,
     name: "Keshav Garg",
+    designation: "Designer & Developer"
     image:
       "/keshav.jpg",
   },
   {
     id: 2,
     name: "Inder Sharma",
+    designation: "Presenter & Co-developer"
     image:
       "/inder.png",
   },
   {
     id: 3,
     name: "Ayushi Joshi",
+    designation: "Content"
     image:
       "/ayushi.png",
   },
   {
     id: 4,
     name: "Ashmit Negi",
+    designation: " Co-presnter"
     image:
       "/ashmit.png",
   },
