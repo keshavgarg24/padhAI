@@ -48,12 +48,6 @@ function Navbar({ className }) {
               src="https://assets.aceternity.com/demos/Screenshot+2024-02-21+at+11.51.31%E2%80%AFPM.png"
               description="Engage with AI concepts through interactive games. Learn while having fun and track your progress with our Gamified Learning platform."
             />
-            <ProductItem
-              title="3D classroom"
-              href="/classroom"
-              src="https://assets.aceternity.com/demos/Screenshot+2024-02-21+at+11.47.07%E2%80%AFPM.png"
-              description="Experience a virtual classroom with our 3D classroom. Interact with AI experts and peers in a realistic environment to enhance your learning."
-            />
           </div>
         </MenuItem>
         <MenuItem setActive={setActive} active={active} item="Pricing">
